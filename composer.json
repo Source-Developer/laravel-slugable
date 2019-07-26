@@ -1,0 +1,23 @@
+{
+  "name": "intothesource/laravel-slugable",
+  "description": "A laravel slugable trait",
+  "license": "MIT",
+  "keywords": [
+    "slug",
+    "trait"
+  ],
+  "authors": [
+    {
+      "name": "Gertjan Roke",
+      "email": "gjroke@intothesource.com"
+    }
+  ],
+  "require": {
+    "laravel/framework": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "IntoTheSource\\Slugable\\": "src"
+    }
+  }
+}
